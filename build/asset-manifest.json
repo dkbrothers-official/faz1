@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.707c5cf3.chunk.css",
+    "main.js": "/static/js/main.a5c7db67.chunk.js",
+    "main.js.map": "/static/js/main.a5c7db67.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.28cf0bed.chunk.js": "/static/js/2.28cf0bed.chunk.js",
+    "static/js/2.28cf0bed.chunk.js.map": "/static/js/2.28cf0bed.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7f861aace5700f58dccb8651908a9e95.js": "/precache-manifest.7f861aace5700f58dccb8651908a9e95.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.707c5cf3.chunk.css.map": "/static/css/main.707c5cf3.chunk.css.map",
+    "static/media/faz.pdf": "/static/media/faz.56bea230.pdf"
+  }
+}
